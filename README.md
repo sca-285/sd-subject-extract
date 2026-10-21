@@ -1,4 +1,4 @@
-# Subject Extract
+# Stable Diffusion Subject Extract
 
 Separate a main subject from its background in **Forge-family WebUIs** using BiRefNet. The subject can be a person, animal, product, vehicle or another prominent foreground object.
 
